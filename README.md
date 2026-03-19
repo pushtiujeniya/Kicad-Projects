@@ -11,4 +11,10 @@ This repository contains  some 2 layer of PCB module board schematic and layout 
 - decoupling capacitor at ouput voltage
 - decoupling capacitors at input voltage used MLCC and tantalum as it has low ESR
 - 1X5 pin through hole connector to connect the module with controller
--  
+
+# LDO voltage regulator
+- AMS1117-3.3V ldo regulator convert 5V DC to 3.3V DC
+- Two 1x02 connector for vin and vout
+- led indication for voltage input with pretected by 1Kohm resistor
+- decoupling capacitor  at voltage input and voltage output
+   
