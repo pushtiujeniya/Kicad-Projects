@@ -17,4 +17,10 @@ This repository contains  some 2 layer of PCB module board schematic and layout 
 - Two 1x02 connector for vin and vout
 - led indication for voltage input with pretected by 1Kohm resistor
 - decoupling capacitor  at voltage input and voltage output
-   
+
+# DHT11  module
+- This  module measures the temperature and  humidity value
+- DHT11 sensor (input voltage range 3.3V DC to 5.5V DC)
+- 3 pin header conenctor for vcc, gnd and data line
+- power on led indication with  resistor protection
+  
